@@ -11,4 +11,4 @@
 
 ** 系统截图 **
 
-![img](https://iamverylovely.com/v2eximg/osx_cx.jpg)
+<img src="https://iamverylovely.com/v2eximg/osx_cx.jpg?v=1.23" title="截图" alt="如若图片无法查看请转到：https://iamverylovely.com/v2eximg/osx_cx.jpg">
