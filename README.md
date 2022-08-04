@@ -4,13 +4,9 @@
  
  **我的系统配置(System)**
  > CPU：i5-8250U 
- 
  > 主板：X510UQR 
- 
  > 独显：Geforce 940MX 
- 
  > RAM：8G 
- 
  > SSD：240G 
 
 + 核芯显卡仿冒HD630 显存2048MB 可调节亮度 从开机到使用不会出现花屏
@@ -22,5 +18,3 @@
 + 默认无线网卡无法驱动
 
 **系统截图(Screenshot)**
-
-[点此查看截图(Screenshot)](https://iamverylovely.com/v2eximg/osx_cx.jpg)
